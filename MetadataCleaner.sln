@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetadataCleaner", "MetadataCleaner\MetadataCleaner.csproj", "{B568C6F4-212C-463A-AFED-537C5EAA35B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetadataCleanerTester", "MetadataCleanerTester\MetadataCleanerTester.csproj", "{164E7BAB-6921-4D44-B203-AB38CA11E4E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B568C6F4-212C-463A-AFED-537C5EAA35B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B568C6F4-212C-463A-AFED-537C5EAA35B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B568C6F4-212C-463A-AFED-537C5EAA35B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B568C6F4-212C-463A-AFED-537C5EAA35B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{164E7BAB-6921-4D44-B203-AB38CA11E4E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164E7BAB-6921-4D44-B203-AB38CA11E4E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164E7BAB-6921-4D44-B203-AB38CA11E4E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164E7BAB-6921-4D44-B203-AB38CA11E4E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

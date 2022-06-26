@@ -1,0 +1,13 @@
+D:\Users\Amibr\source\repos\MetadataCleaner\MetadataCleaner\obj\Debug\MetadataCleaner.csprojAssemblyReference.cache
+D:\Users\Amibr\source\repos\MetadataCleaner\MetadataCleaner\obj\Debug\MetadataCleaner.csproj.CoreCompileInputs.cache
+D:\Users\Amibr\source\repos\MetadataCleaner\MetadataCleaner\bin\Debug\MetadataCleaner.dll.config
+D:\Users\Amibr\source\repos\MetadataCleaner\MetadataCleaner\bin\Debug\MetadataCleaner.dll
+D:\Users\Amibr\source\repos\MetadataCleaner\MetadataCleaner\bin\Debug\MetadataCleaner.pdb
+D:\Users\Amibr\source\repos\MetadataCleaner\MetadataCleaner\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Users\Amibr\source\repos\MetadataCleaner\MetadataCleaner\bin\Debug\OpenXmlPowerTools.dll
+D:\Users\Amibr\source\repos\MetadataCleaner\MetadataCleaner\bin\Debug\System.IO.Packaging.dll
+D:\Users\Amibr\source\repos\MetadataCleaner\MetadataCleaner\bin\Debug\System.Management.Automation.dll
+D:\Users\Amibr\source\repos\MetadataCleaner\MetadataCleaner\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Users\Amibr\source\repos\MetadataCleaner\MetadataCleaner\obj\Debug\MetadataCleaner.csproj.CopyComplete
+D:\Users\Amibr\source\repos\MetadataCleaner\MetadataCleaner\obj\Debug\MetadataCleaner.dll
+D:\Users\Amibr\source\repos\MetadataCleaner\MetadataCleaner\obj\Debug\MetadataCleaner.pdb
